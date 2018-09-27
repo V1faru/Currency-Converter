@@ -1,2 +1,2 @@
 # Currency-Converter
-A simple currency converter made with java
+A simple currency converter made with java.
